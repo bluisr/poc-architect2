@@ -1,0 +1,29 @@
+{
+    "name": "poc_touch",
+    "settings": {},
+    "xdsVersion": "2.2.2",
+    "xdsBuild": 991,
+    "schemaVersion": 1,
+    "upgradeVersion": 210000000503,
+    "framework": "touch22",
+    "topInstanceFileMap": {
+        "5492497d-4317-4746-b6e4-b9c55761fb23": {
+            "paths": [
+                "metadata/resource/Library"
+            ],
+            "className": "Library"
+        }
+    },
+    "viewOrderMap": {
+        "view": [],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "5492497d-4317-4746-b6e4-b9c55761fb23"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
